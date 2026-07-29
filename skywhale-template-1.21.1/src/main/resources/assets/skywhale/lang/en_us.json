@@ -1,0 +1,13 @@
+{
+  "itemGroup.skywhale": "Example Mod Tab",
+  "block.skywhale.example_block": "Example Block",
+  "item.skywhale.example_item": "Example Item",
+
+  "skywhale.configuration.title": "Skywhale Configs",
+  "skywhale.configuration.section.skywhale.common.toml": "Skywhale Configs",
+  "skywhale.configuration.section.skywhale.common.toml.title": "Skywhale Configs",
+  "skywhale.configuration.items": "Item List",
+  "skywhale.configuration.logDirtBlock": "Log Dirt Block",
+  "skywhale.configuration.magicNumberIntroduction": "Magic Number Text",
+  "skywhale.configuration.magicNumber": "Magic Number"
+}
